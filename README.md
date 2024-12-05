@@ -1,1 +1,2 @@
-# aula-04.12.2024
+# CienciaDeDados-CriandoGraficosDinamicosComJavaScript
+Ciência de dados: Criando Gráficos Dinâmicos com JavaScript
